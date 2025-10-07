@@ -126,7 +126,7 @@ export default function DashboardPage() {
             <div className="text-center py-12 text-gray-500">
               <div className="text-6xl mb-4">📝</div>
               <p>No health logs yet</p>
-              <p className="text-sm">Click "Add New Health Log" to get started</p>
+              <p className="text-sm">Click &quot;Add New Health Log&quot; to get started</p>
             </div>
           ) : (
             <div className="space-y-4">
